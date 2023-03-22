@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/strategies/BotPlayingStrategies/BotPlayingStrategies.iml" filepath="$PROJECT_DIR$/strategies/BotPlayingStrategies/BotPlayingStrategies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controllers/Controllers.iml" filepath="$PROJECT_DIR$/Controllers/Controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategies/GameWinnigStrategy/GameWinnigStrategy.iml" filepath="$PROJECT_DIR$/strategies/GameWinnigStrategy/GameWinnigStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Models/Models.iml" filepath="$PROJECT_DIR$/Models/Models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic Tac Toe.iml" filepath="$PROJECT_DIR$/Tic Tac Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory.BotPlayingStrategyFactory/factory.BotPlayingStrategyFactory.iml" filepath="$PROJECT_DIR$/factory.BotPlayingStrategyFactory/factory.BotPlayingStrategyFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategies/strategies.iml" filepath="$PROJECT_DIR$/strategies/strategies.iml" />
+    </modules>
+  </component>
+</project>
